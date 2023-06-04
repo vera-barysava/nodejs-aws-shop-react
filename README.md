@@ -1,3 +1,15 @@
+# AWS Course
+## Task 2
+s3 link - http://aws-store-bucket.s3-website-eu-west-1.amazonaws.com/
+cloudFront link - https://d2vry91yrdrk5x.cloudfront.net/
+
+To init project do the following:
+1. npm run cdk:bootstrap
+2. npm run cdk:deploy
+
+
+add creating script npm cdk:synth, cdk:deploy, cdk:bootstrap,cdk:build:deploy if you want to init project in aws, run cdk:bootstrap and after that run cdk:build:deploy
+
 # React-shop-cloudfront
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
